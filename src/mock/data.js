@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'FPL Toolbox',
-    info: 'An App',
-    info2: 'Still an app',
+    info: 'A webapp written in HTML, CSS and JavaScript and developed with the Apache Cordova framework.',
+    info2: 'The app is a tool to provide a user further insignts into their Fantasy Premier League team. It does this by utilising Google Visualisations to present them the data.',
     url: '',
     repo: '', // if no repo, the button will not show up
   },  
