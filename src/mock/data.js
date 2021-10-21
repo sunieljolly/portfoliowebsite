@@ -29,9 +29,9 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    title: 'FPL Toolbox',
+    info: 'An App',
+    info2: 'Still an app',
     url: '',
     repo: '', // if no repo, the button will not show up
   },  
