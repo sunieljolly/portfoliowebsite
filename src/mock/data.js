@@ -47,11 +47,11 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    /* {
+    {
       id: nanoid(),
       name: 'twitter',
-      url: '',
-    }, */
+      url: 'https://twitter.com/sunieljolly',
+    }, 
 /*     {
       id: nanoid(),
       name: 'codepen',
