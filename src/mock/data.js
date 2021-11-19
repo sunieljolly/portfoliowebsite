@@ -38,11 +38,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'FPL Toolbox',
-    info: 'A webapp written in HTML, CSS and JavaScript and developed with the Apache Cordova framework.',
-    info2: 'The app is a tool to provide a user further insignts into their Fantasy Premier League team. It does this by utilising Google Visualisations to present them the data.',
+    title: 'Premier League News Webscraper',
+    info: 'An application built using Node.js and Express',
+    info2: 'This web scraper extracts upto date news articles, about the Premier League, from reliable UK news soruces.',
     url: '',
-    repo: '', // if no repo, the button will not show up
+    repo: 'https://rapidapi.com/sunieljolly@googlemail.com/api/premier-league-news/', // if no repo, the button will not show up
   },  
 ];
 
