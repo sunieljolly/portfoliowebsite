@@ -41,8 +41,8 @@ export const projectsData = [
     title: 'Premier League News Webscraper',
     info: 'An application built using Node.js and Express',
     info2: 'This web scraper extracts upto date news articles, about the Premier League, from reliable UK news soruces.',
-    url: '',
-    repo: 'https://rapidapi.com/sunieljolly@googlemail.com/api/premier-league-news/', // if no repo, the button will not show up
+    url: 'https://rapidapi.com/sunieljolly@googlemail.com/api/premier-league-news/',
+    repo: '', // if no repo, the button will not show up
   },  
 ];
 
